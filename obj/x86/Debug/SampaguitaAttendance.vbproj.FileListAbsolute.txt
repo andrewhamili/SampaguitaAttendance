@@ -1,0 +1,11 @@
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\bin\Debug\SampaguitaAttendance.exe
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\bin\Debug\SampaguitaAttendance.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\bin\Debug\SampaguitaAttendance.xml
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\bin\Debug\MySql.Data.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\bin\Debug\MySqlBackup.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\obj\x86\Debug\SampaguitaAttendance.Form1.resources
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\obj\x86\Debug\SampaguitaAttendance.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\obj\x86\Debug\SampaguitaAttendance.vbproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\obj\x86\Debug\SampaguitaAttendance.exe
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\obj\x86\Debug\SampaguitaAttendance.xml
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\SampaguitaAttendance\SampaguitaAttendance\obj\x86\Debug\SampaguitaAttendance.pdb

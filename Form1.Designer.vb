@@ -35,6 +35,7 @@ Partial Class Form1
         '
         'txtLastName
         '
+        Me.txtLastName.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtLastName.Location = New System.Drawing.Point(198, 47)
         Me.txtLastName.Name = "txtLastName"
         Me.txtLastName.Size = New System.Drawing.Size(184, 26)
@@ -42,6 +43,7 @@ Partial Class Form1
         '
         'txtFirstName
         '
+        Me.txtFirstName.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtFirstName.Location = New System.Drawing.Point(198, 99)
         Me.txtFirstName.Name = "txtFirstName"
         Me.txtFirstName.Size = New System.Drawing.Size(184, 26)
@@ -49,6 +51,7 @@ Partial Class Form1
         '
         'txtMInitial
         '
+        Me.txtMInitial.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtMInitial.Location = New System.Drawing.Point(198, 141)
         Me.txtMInitial.Name = "txtMInitial"
         Me.txtMInitial.Size = New System.Drawing.Size(48, 26)
